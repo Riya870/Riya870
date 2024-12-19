@@ -10,7 +10,7 @@ Microsoft PowerBI Certificate
 Welcome to my data analyst portfolio! Here, I showcase my recent projects, each highlighting different data analysis tools and techniques:
 
 🔹 Excel Project: Sales dataset dashboard creation.  
-🔸 SQL Project: Data cleaning and exploration using the Global Superstore dataset.
+🔸 SQL Project: Data cleaning and exploration using the Global Superstore dataset.  
 🔹 Python Project: Exploratory Data Analysis (EDA) on the IMDb dataset.
 
 I’m continuously expanding my portfolio with new and exciting projects. Stay tuned for more! 🚀📈
