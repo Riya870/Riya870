@@ -6,7 +6,7 @@
 Microsoft PowerBI Certificate
 
 🌟 Recent Projects  
-📊 Data Analyst Portfolio
+📊 Data Analyst Portfolio.  
 Welcome to my data analyst portfolio! Here, I showcase my recent projects, each highlighting different data analysis tools and techniques:
 
 🔹 Excel Project: Sales dataset dashboard creation.  
