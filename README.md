@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/4b1d2a1e-8971-4d99-bec6-9e7588e931ef)
-
-
 👋Hi, I'm Riya!    
 
 🌱 My Portfolio Projects are in [Data_Analyst_Portfolio](Data_Analyst_Portfolio)  
