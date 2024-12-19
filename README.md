@@ -1,6 +1,6 @@
-##👋Hi, I'm Riya!
+##👋Hi, I'm Riya!    
+
 🌱 My Portfolio Projects are in [Data_Analyst_Portfolio](Data_Analyst_Portfolio)  
-📫 Email me at: [riyaraj1121@gmail.com](riyaraj1121@gmail.com)  
 
 📈 Certification
 Microsoft PowerBI Certificate
