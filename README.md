@@ -1,16 +1,21 @@
-## Hi there 👋
+##👋Hi, I'm Riya!
+🌱 My Portfolio Projects are in [Data_Analyst_Portfolio](Data_Analyst_Portfolio)  
+📫 Email me at: [riyaraj1121@gmail.com](riyaraj1121@gmail.com)  
 
-<!--
-**Riya870/Riya870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 Certification
+Microsoft PowerBI Certificate
 
-Here are some ideas to get you started:
+🌟 Recent Projects  
+📊 Data Analyst Portfolio
+Welcome to my data analyst portfolio! Here, I showcase my recent projects, each highlighting different data analysis tools and techniques:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Excel Project: Sales dataset dashboard creation.
+🔸 SQL Project: Data cleaning and exploration using the Global Superstore dataset.
+🔹 Python Project: Exploratory Data Analysis (EDA) on the IMDb dataset.
+
+I’m continuously expanding my portfolio with new and exciting projects. Stay tuned for more! 🚀📈
+
+🚗 OLA Data Analysis Project
+  Conducted a comprehensive data analysis on the OLA dataset.
+  Tools Used: Excel, SQL, and Power BI.  
+
