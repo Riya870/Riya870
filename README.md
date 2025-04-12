@@ -1,6 +1,6 @@
 👋Hi, I'm Riya!    
 
-🌱 My Portfolio Projects are in [Data_Analyst_Portfolio](Data_Analyst_Portfolio)  
+🌱 My Portfolio Projects are in [Data_Analyst_Portfolio]([Data_Analyst_Portfolio](https://github.com/Riya870/Data_Analyst_Portfolio/edit/main/README.md))  
 
 📈 Certification
 Microsoft PowerBI Certificate
